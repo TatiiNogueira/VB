@@ -1,0 +1,13 @@
+Dim - Serve para declarar variáveis
+
+Tipo de valores e sua respetiva conversão de string para o tipo de valor
+Entre parenteses fica o valor que queremos conversor
+Inteiro -> Números inteiros -> CInt()
+Long -> Números Longos / compridos -> CLong()
+Decimal -> Números Decimais -> CDec()
+Duplo -> Tipo de dados disponíveis como maiores e menores magnitudes possíveis para um número -> CDbl()
+Booleano -> Verdadeiro ou Falso -> CBool ​()
+
+Mostrar uma mensagem -> MessageBox.Show("O que quero que apareça")
+Buscar o que está numa textBox -> TextBoxName.Text
+Fechar a janela -> Me.Close()
