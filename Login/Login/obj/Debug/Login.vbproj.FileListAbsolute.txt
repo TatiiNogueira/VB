@@ -1,0 +1,12 @@
+C:\Users\nogue\Desktop\Work\VB\Login\Login\bin\Debug\Login.exe.config
+C:\Users\nogue\Desktop\Work\VB\Login\Login\bin\Debug\Login.exe
+C:\Users\nogue\Desktop\Work\VB\Login\Login\bin\Debug\Login.pdb
+C:\Users\nogue\Desktop\Work\VB\Login\Login\bin\Debug\Login.xml
+C:\Users\nogue\Desktop\Work\VB\Login\Login\obj\Debug\Login.vbprojAssemblyReference.cache
+C:\Users\nogue\Desktop\Work\VB\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\nogue\Desktop\Work\VB\Login\Login\obj\Debug\Login.Resources.resources
+C:\Users\nogue\Desktop\Work\VB\Login\Login\obj\Debug\Login.vbproj.GenerateResource.cache
+C:\Users\nogue\Desktop\Work\VB\Login\Login\obj\Debug\Login.vbproj.CoreCompileInputs.cache
+C:\Users\nogue\Desktop\Work\VB\Login\Login\obj\Debug\Login.exe
+C:\Users\nogue\Desktop\Work\VB\Login\Login\obj\Debug\Login.xml
+C:\Users\nogue\Desktop\Work\VB\Login\Login\obj\Debug\Login.pdb
