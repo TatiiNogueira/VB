@@ -1,0 +1,12 @@
+C:\Users\nogue\Desktop\Work\VB\Database Conection\Database Conection\bin\Debug\Database Conection.exe.config
+C:\Users\nogue\Desktop\Work\VB\Database Conection\Database Conection\bin\Debug\Database Conection.exe
+C:\Users\nogue\Desktop\Work\VB\Database Conection\Database Conection\bin\Debug\Database Conection.pdb
+C:\Users\nogue\Desktop\Work\VB\Database Conection\Database Conection\bin\Debug\Database Conection.xml
+C:\Users\nogue\Desktop\Work\VB\Database Conection\Database Conection\obj\Debug\Database Conection.vbprojAssemblyReference.cache
+C:\Users\nogue\Desktop\Work\VB\Database Conection\Database Conection\obj\Debug\Database_Conection.Form1.resources
+C:\Users\nogue\Desktop\Work\VB\Database Conection\Database Conection\obj\Debug\Database_Conection.Resources.resources
+C:\Users\nogue\Desktop\Work\VB\Database Conection\Database Conection\obj\Debug\Database Conection.vbproj.GenerateResource.cache
+C:\Users\nogue\Desktop\Work\VB\Database Conection\Database Conection\obj\Debug\Database Conection.vbproj.CoreCompileInputs.cache
+C:\Users\nogue\Desktop\Work\VB\Database Conection\Database Conection\obj\Debug\Database Conection.exe
+C:\Users\nogue\Desktop\Work\VB\Database Conection\Database Conection\obj\Debug\Database Conection.xml
+C:\Users\nogue\Desktop\Work\VB\Database Conection\Database Conection\obj\Debug\Database Conection.pdb
