@@ -6,7 +6,7 @@ Public Class Acesso
     'Função conectar à Base de dados
     Public Sub Conectar()
         Try
-            'Dados para a ligação à base de dadosg
+            'Dados para a ligação à base de dados
             'Data Source -> Servidor
             'INITIAL CATALOG -> Base de dados
             'USER ID -> Username
