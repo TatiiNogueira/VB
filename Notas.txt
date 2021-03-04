@@ -21,3 +21,4 @@ Fechar a janela -> Me.Close()
 Abrir a ligação à Base de Dados -> objConexao.Open()
 Fechar a ligação à Base de Dados-> objConexao.Close()
 Indicar a query SQL -> EX: Dim ds As DataSet = objBanco.ExecuteQuery("select * from Categories")
+Para colocar uma TextBox apenas de leitura, ou seja não posso escrever nada nela, clica na TextBox, vou a "Properties" e em "Read only" coloco "True"
