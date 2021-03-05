@@ -1,0 +1,24 @@
+C:\Users\nogue\Desktop\Work\VB\Select_Case_WinForms\Select_Case_WinForms\bin\Debug\Select_Case_WinForms.exe.config
+C:\Users\nogue\Desktop\Work\VB\Select_Case_WinForms\Select_Case_WinForms\bin\Debug\Select_Case_WinForms.exe
+C:\Users\nogue\Desktop\Work\VB\Select_Case_WinForms\Select_Case_WinForms\bin\Debug\Select_Case_WinForms.pdb
+C:\Users\nogue\Desktop\Work\VB\Select_Case_WinForms\Select_Case_WinForms\bin\Debug\Select_Case_WinForms.xml
+C:\Users\nogue\Desktop\Work\VB\Select_Case_WinForms\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.vbprojAssemblyReference.cache
+C:\Users\nogue\Desktop\Work\VB\Select_Case_WinForms\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.Form1.resources
+C:\Users\nogue\Desktop\Work\VB\Select_Case_WinForms\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.Resources.resources
+C:\Users\nogue\Desktop\Work\VB\Select_Case_WinForms\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.vbproj.GenerateResource.cache
+C:\Users\nogue\Desktop\Work\VB\Select_Case_WinForms\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.vbproj.CoreCompileInputs.cache
+C:\Users\nogue\Desktop\Work\VB\Select_Case_WinForms\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.exe
+C:\Users\nogue\Desktop\Work\VB\Select_Case_WinForms\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.xml
+C:\Users\nogue\Desktop\Work\VB\Select_Case_WinForms\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.pdb
+C:\Users\nogue\Desktop\Work\VB\Notas Escolares EUA\Select_Case_WinForms\bin\Debug\Select_Case_WinForms.exe.config
+C:\Users\nogue\Desktop\Work\VB\Notas Escolares EUA\Select_Case_WinForms\bin\Debug\Select_Case_WinForms.exe
+C:\Users\nogue\Desktop\Work\VB\Notas Escolares EUA\Select_Case_WinForms\bin\Debug\Select_Case_WinForms.pdb
+C:\Users\nogue\Desktop\Work\VB\Notas Escolares EUA\Select_Case_WinForms\bin\Debug\Select_Case_WinForms.xml
+C:\Users\nogue\Desktop\Work\VB\Notas Escolares EUA\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.vbprojAssemblyReference.cache
+C:\Users\nogue\Desktop\Work\VB\Notas Escolares EUA\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.Form1.resources
+C:\Users\nogue\Desktop\Work\VB\Notas Escolares EUA\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.Resources.resources
+C:\Users\nogue\Desktop\Work\VB\Notas Escolares EUA\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.vbproj.GenerateResource.cache
+C:\Users\nogue\Desktop\Work\VB\Notas Escolares EUA\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.vbproj.CoreCompileInputs.cache
+C:\Users\nogue\Desktop\Work\VB\Notas Escolares EUA\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.exe
+C:\Users\nogue\Desktop\Work\VB\Notas Escolares EUA\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.xml
+C:\Users\nogue\Desktop\Work\VB\Notas Escolares EUA\Select_Case_WinForms\obj\Debug\Select_Case_WinForms.pdb
