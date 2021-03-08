@@ -14,6 +14,22 @@ Password -> Palavra Passe
 Com Login ->> objConexao = New SqlClient.SqlConnection("Data Source = x;INITIAL CATALOG = y; USER ID = a; PASSWORD = p")
 Sem Login ->> objConexao = New SqlConnection("Data Source = x;INITIAL CATALOG = y;Integrated Security = True")
 
+Chart - Usado para fazer gráficos
+--> Em Properties
+--> Clicamos em Series e temos acesso às definições das barras:
+Name -> Nome das colunas
+Border Color -> Cor da borda das barras
+Color -> Cor das barras
+BorderWidth -> Espessura da borda das barras
+ChartType -> Tipo de Gráfico
+BackImage -Colocar uma imagem nas barras
+--> Clicamos em Legend e temos acesso às definições das do nome das barras/legendas:
+BackColor -> Cor de fundo do "quadrado" onde se encontra a legenda
+BorderColor -> Cor da borda do "quadrado" onde se encontra a legenda
+ForeColor -> Cor das letras da legenda
+--> Para adicionarmos colunas, vamos a Series, clicamos em Add, atribuimos um nome e colocamos as definições
+à nossa maneira ou seja colocamos cor, borda ...
+
 Dim - Serve para declarar variáveis
 Mostrar uma mensagem -> MessageBox.Show("O que quero que apareça")
 Buscar o que está numa textBox -> TextBoxName.Text
