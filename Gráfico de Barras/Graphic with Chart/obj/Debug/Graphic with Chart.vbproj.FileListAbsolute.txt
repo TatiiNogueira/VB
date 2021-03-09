@@ -1,0 +1,12 @@
+C:\Users\nogue\Desktop\Work\VB\Graphic with Chart\Graphic with Chart\bin\Debug\Graphic with Chart.exe.config
+C:\Users\nogue\Desktop\Work\VB\Graphic with Chart\Graphic with Chart\bin\Debug\Graphic with Chart.exe
+C:\Users\nogue\Desktop\Work\VB\Graphic with Chart\Graphic with Chart\bin\Debug\Graphic with Chart.pdb
+C:\Users\nogue\Desktop\Work\VB\Graphic with Chart\Graphic with Chart\bin\Debug\Graphic with Chart.xml
+C:\Users\nogue\Desktop\Work\VB\Graphic with Chart\Graphic with Chart\obj\Debug\Graphic with Chart.vbprojAssemblyReference.cache
+C:\Users\nogue\Desktop\Work\VB\Graphic with Chart\Graphic with Chart\obj\Debug\Graphic_with_Chart.Form1.resources
+C:\Users\nogue\Desktop\Work\VB\Graphic with Chart\Graphic with Chart\obj\Debug\Graphic_with_Chart.Resources.resources
+C:\Users\nogue\Desktop\Work\VB\Graphic with Chart\Graphic with Chart\obj\Debug\Graphic with Chart.vbproj.GenerateResource.cache
+C:\Users\nogue\Desktop\Work\VB\Graphic with Chart\Graphic with Chart\obj\Debug\Graphic with Chart.vbproj.CoreCompileInputs.cache
+C:\Users\nogue\Desktop\Work\VB\Graphic with Chart\Graphic with Chart\obj\Debug\Graphic with Chart.exe
+C:\Users\nogue\Desktop\Work\VB\Graphic with Chart\Graphic with Chart\obj\Debug\Graphic with Chart.xml
+C:\Users\nogue\Desktop\Work\VB\Graphic with Chart\Graphic with Chart\obj\Debug\Graphic with Chart.pdb
