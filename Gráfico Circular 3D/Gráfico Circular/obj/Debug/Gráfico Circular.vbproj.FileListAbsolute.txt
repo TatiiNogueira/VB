@@ -1,0 +1,12 @@
+C:\Users\nogue\Desktop\Work\VB\Gráfico Circular\Gráfico Circular\bin\Debug\Gráfico Circular.exe.config
+C:\Users\nogue\Desktop\Work\VB\Gráfico Circular\Gráfico Circular\bin\Debug\Gráfico Circular.exe
+C:\Users\nogue\Desktop\Work\VB\Gráfico Circular\Gráfico Circular\bin\Debug\Gráfico Circular.pdb
+C:\Users\nogue\Desktop\Work\VB\Gráfico Circular\Gráfico Circular\bin\Debug\Gráfico Circular.xml
+C:\Users\nogue\Desktop\Work\VB\Gráfico Circular\Gráfico Circular\obj\Debug\Gráfico Circular.vbprojAssemblyReference.cache
+C:\Users\nogue\Desktop\Work\VB\Gráfico Circular\Gráfico Circular\obj\Debug\Gráfico_Circular.Form1.resources
+C:\Users\nogue\Desktop\Work\VB\Gráfico Circular\Gráfico Circular\obj\Debug\Gráfico_Circular.Resources.resources
+C:\Users\nogue\Desktop\Work\VB\Gráfico Circular\Gráfico Circular\obj\Debug\Gráfico Circular.vbproj.GenerateResource.cache
+C:\Users\nogue\Desktop\Work\VB\Gráfico Circular\Gráfico Circular\obj\Debug\Gráfico Circular.vbproj.CoreCompileInputs.cache
+C:\Users\nogue\Desktop\Work\VB\Gráfico Circular\Gráfico Circular\obj\Debug\Gráfico Circular.exe
+C:\Users\nogue\Desktop\Work\VB\Gráfico Circular\Gráfico Circular\obj\Debug\Gráfico Circular.xml
+C:\Users\nogue\Desktop\Work\VB\Gráfico Circular\Gráfico Circular\obj\Debug\Gráfico Circular.pdb
