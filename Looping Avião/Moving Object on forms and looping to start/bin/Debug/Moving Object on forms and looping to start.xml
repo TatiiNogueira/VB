@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Moving Object on forms and looping to start
+</name>
+</assembly>
+<members>
+<member name="T:Moving_Object_on_forms_and_looping_to_start.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Moving_Object_on_forms_and_looping_to_start.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Moving_Object_on_forms_and_looping_to_start.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Moving_Object_on_forms_and_looping_to_start.My.Resources.Resources.d__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Moving_Object_on_forms_and_looping_to_start.My.Resources.Resources.q__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Moving_Object_on_forms_and_looping_to_start.My.Resources.Resources.q__1__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Moving_Object_on_forms_and_looping_to_start.My.Resources.Resources.vem_ai_a_superlua_cheia_das_flores_a_ultima_de_2020_251731_2_1280">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
