@@ -1,0 +1,12 @@
+C:\Users\nogue\Desktop\Work\VB\Numeros Primos\Numeros Primos\bin\Debug\Numeros Primos.exe.config
+C:\Users\nogue\Desktop\Work\VB\Numeros Primos\Numeros Primos\bin\Debug\Numeros Primos.exe
+C:\Users\nogue\Desktop\Work\VB\Numeros Primos\Numeros Primos\bin\Debug\Numeros Primos.pdb
+C:\Users\nogue\Desktop\Work\VB\Numeros Primos\Numeros Primos\bin\Debug\Numeros Primos.xml
+C:\Users\nogue\Desktop\Work\VB\Numeros Primos\Numeros Primos\obj\Debug\Numeros Primos.vbprojAssemblyReference.cache
+C:\Users\nogue\Desktop\Work\VB\Numeros Primos\Numeros Primos\obj\Debug\Numeros_Primos.Form1.resources
+C:\Users\nogue\Desktop\Work\VB\Numeros Primos\Numeros Primos\obj\Debug\Numeros_Primos.Resources.resources
+C:\Users\nogue\Desktop\Work\VB\Numeros Primos\Numeros Primos\obj\Debug\Numeros Primos.vbproj.GenerateResource.cache
+C:\Users\nogue\Desktop\Work\VB\Numeros Primos\Numeros Primos\obj\Debug\Numeros Primos.vbproj.CoreCompileInputs.cache
+C:\Users\nogue\Desktop\Work\VB\Numeros Primos\Numeros Primos\obj\Debug\Numeros Primos.exe
+C:\Users\nogue\Desktop\Work\VB\Numeros Primos\Numeros Primos\obj\Debug\Numeros Primos.xml
+C:\Users\nogue\Desktop\Work\VB\Numeros Primos\Numeros Primos\obj\Debug\Numeros Primos.pdb
