@@ -1,0 +1,12 @@
+C:\Users\nogue\Desktop\Work\VB\Fast Food Restaurant\Fast Food Restaurant\bin\Debug\Fast Food Restaurant.exe.config
+C:\Users\nogue\Desktop\Work\VB\Fast Food Restaurant\Fast Food Restaurant\bin\Debug\Fast Food Restaurant.exe
+C:\Users\nogue\Desktop\Work\VB\Fast Food Restaurant\Fast Food Restaurant\bin\Debug\Fast Food Restaurant.pdb
+C:\Users\nogue\Desktop\Work\VB\Fast Food Restaurant\Fast Food Restaurant\bin\Debug\Fast Food Restaurant.xml
+C:\Users\nogue\Desktop\Work\VB\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast Food Restaurant.vbprojAssemblyReference.cache
+C:\Users\nogue\Desktop\Work\VB\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast_Food_Restaurant.formMain.resources
+C:\Users\nogue\Desktop\Work\VB\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast_Food_Restaurant.Resources.resources
+C:\Users\nogue\Desktop\Work\VB\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast Food Restaurant.vbproj.GenerateResource.cache
+C:\Users\nogue\Desktop\Work\VB\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast Food Restaurant.vbproj.CoreCompileInputs.cache
+C:\Users\nogue\Desktop\Work\VB\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast Food Restaurant.exe
+C:\Users\nogue\Desktop\Work\VB\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast Food Restaurant.xml
+C:\Users\nogue\Desktop\Work\VB\Fast Food Restaurant\Fast Food Restaurant\obj\Debug\Fast Food Restaurant.pdb

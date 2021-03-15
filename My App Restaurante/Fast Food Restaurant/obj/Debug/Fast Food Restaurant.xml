@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Fast Food Restaurant
+</name>
+</assembly>
+<members>
+<member name="T:Fast_Food_Restaurant.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Arroz">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Bolo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Café">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Caranguejo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Chá">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Deserts">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Drinks">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Foods">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Frango">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Gelado">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Gelado1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Massa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Milkshake">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.MyCart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Outro">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Outro1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.OutroS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Peixe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Pudim">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Restaurante">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Restaurante1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Restaurantee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Softdrink">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Sopa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Sumo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Fast_Food_Restaurant.My.Resources.Resources.Talheres">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
