@@ -1,0 +1,14 @@
+C:\Users\nogue\Desktop\Work\VB\Menu com páginas (MDI Parent form)\Menu com páginas (MDI Parent form)\bin\Debug\Menu com páginas (MDI Parent form).exe.config
+C:\Users\nogue\Desktop\Work\VB\Menu com páginas (MDI Parent form)\Menu com páginas (MDI Parent form)\bin\Debug\Menu com páginas (MDI Parent form).exe
+C:\Users\nogue\Desktop\Work\VB\Menu com páginas (MDI Parent form)\Menu com páginas (MDI Parent form)\bin\Debug\Menu com páginas (MDI Parent form).pdb
+C:\Users\nogue\Desktop\Work\VB\Menu com páginas (MDI Parent form)\Menu com páginas (MDI Parent form)\bin\Debug\Menu com páginas (MDI Parent form).xml
+C:\Users\nogue\Desktop\Work\VB\Menu com páginas (MDI Parent form)\Menu com páginas (MDI Parent form)\obj\Debug\Menu com páginas (MDI Parent form).vbprojAssemblyReference.cache
+C:\Users\nogue\Desktop\Work\VB\Menu com páginas (MDI Parent form)\Menu com páginas (MDI Parent form)\obj\Debug\Menu_com_páginas__MDI_Parent_form_.MDIParent.resources
+C:\Users\nogue\Desktop\Work\VB\Menu com páginas (MDI Parent form)\Menu com páginas (MDI Parent form)\obj\Debug\Menu_com_páginas__MDI_Parent_form_.Resources.resources
+C:\Users\nogue\Desktop\Work\VB\Menu com páginas (MDI Parent form)\Menu com páginas (MDI Parent form)\obj\Debug\Menu com páginas (MDI Parent form).vbproj.GenerateResource.cache
+C:\Users\nogue\Desktop\Work\VB\Menu com páginas (MDI Parent form)\Menu com páginas (MDI Parent form)\obj\Debug\Menu com páginas (MDI Parent form).vbproj.CoreCompileInputs.cache
+C:\Users\nogue\Desktop\Work\VB\Menu com páginas (MDI Parent form)\Menu com páginas (MDI Parent form)\obj\Debug\Menu com páginas (MDI Parent form).exe
+C:\Users\nogue\Desktop\Work\VB\Menu com páginas (MDI Parent form)\Menu com páginas (MDI Parent form)\obj\Debug\Menu com páginas (MDI Parent form).xml
+C:\Users\nogue\Desktop\Work\VB\Menu com páginas (MDI Parent form)\Menu com páginas (MDI Parent form)\obj\Debug\Menu com páginas (MDI Parent form).pdb
+C:\Users\nogue\Desktop\Work\VB\Menu com páginas (MDI Parent form)\Menu com páginas (MDI Parent form)\obj\Debug\Menu_com_páginas__MDI_Parent_form_.frmpage1.resources
+C:\Users\nogue\Desktop\Work\VB\Menu com páginas (MDI Parent form)\Menu com páginas (MDI Parent form)\obj\Debug\Menu_com_páginas__MDI_Parent_form_.frmpage2.resources
