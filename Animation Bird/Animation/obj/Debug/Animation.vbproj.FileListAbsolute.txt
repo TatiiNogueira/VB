@@ -1,0 +1,12 @@
+C:\Users\nogue\Desktop\Work\VB\Animation\Animation\bin\Debug\Animation.exe.config
+C:\Users\nogue\Desktop\Work\VB\Animation\Animation\bin\Debug\Animation.exe
+C:\Users\nogue\Desktop\Work\VB\Animation\Animation\bin\Debug\Animation.pdb
+C:\Users\nogue\Desktop\Work\VB\Animation\Animation\bin\Debug\Animation.xml
+C:\Users\nogue\Desktop\Work\VB\Animation\Animation\obj\Debug\Animation.vbprojAssemblyReference.cache
+C:\Users\nogue\Desktop\Work\VB\Animation\Animation\obj\Debug\Animation.Form1.resources
+C:\Users\nogue\Desktop\Work\VB\Animation\Animation\obj\Debug\Animation.Resources.resources
+C:\Users\nogue\Desktop\Work\VB\Animation\Animation\obj\Debug\Animation.vbproj.GenerateResource.cache
+C:\Users\nogue\Desktop\Work\VB\Animation\Animation\obj\Debug\Animation.vbproj.CoreCompileInputs.cache
+C:\Users\nogue\Desktop\Work\VB\Animation\Animation\obj\Debug\Animation.exe
+C:\Users\nogue\Desktop\Work\VB\Animation\Animation\obj\Debug\Animation.xml
+C:\Users\nogue\Desktop\Work\VB\Animation\Animation\obj\Debug\Animation.pdb
