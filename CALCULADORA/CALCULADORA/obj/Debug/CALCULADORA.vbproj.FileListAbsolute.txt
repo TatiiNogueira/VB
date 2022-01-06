@@ -1,0 +1,12 @@
+C:\Users\Utilizador\Desktop\VB\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+C:\Users\Utilizador\Desktop\VB\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.exe
+C:\Users\Utilizador\Desktop\VB\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.pdb
+C:\Users\Utilizador\Desktop\VB\CALCULADORA\CALCULADORA\bin\Debug\CALCULADORA.xml
+C:\Users\Utilizador\Desktop\VB\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.vbproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\VB\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Resources.resources
+C:\Users\Utilizador\Desktop\VB\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.vbproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\VB\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.vbproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\VB\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.exe
+C:\Users\Utilizador\Desktop\VB\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.xml
+C:\Users\Utilizador\Desktop\VB\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.pdb
+C:\Users\Utilizador\Desktop\VB\CALCULADORA\CALCULADORA\obj\Debug\CALCULADORA.Calculadora.resources
