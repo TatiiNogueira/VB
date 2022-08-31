@@ -5,6 +5,7 @@ Long -> Números Longos / compridos -> CLong()
 Decimal -> Números Decimais -> CDec()
 Duplo -> Tipo de dados disponíveis como maiores e menores magnitudes possíveis para um número -> CDbl()
 Booleano -> Verdadeiro ou Falso -> CBool()
+Bitmap -> Pixel
 
 Fazer uma ligação à base de dados(Substituir a letra pelo nome correto)
 Data Source -> Servidor
