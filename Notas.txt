@@ -40,3 +40,4 @@ Fechar a ligação à Base de Dados-> objConexao.Close()
 Indicar a query SQL -> EX: Dim ds As DataSet = objBanco.ExecuteQuery("select * from Categories")
 Para colocar uma TextBox apenas de leitura, ou seja não posso escrever nada nela, clica na TextBox, vou a "Properties" e em "Read only" coloco "True"
 Para ir aos NuGets tenho de ir a Tools -> NuGet Packager Manager -> Manage NuGet Packages for Solution
+Inherits -> É usada para declarar uma nova classe, chamada de classe derivada , baseada em uma classe existente, conhecida como classe base.
