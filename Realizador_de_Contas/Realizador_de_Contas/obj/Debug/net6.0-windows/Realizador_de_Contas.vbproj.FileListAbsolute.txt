@@ -1,0 +1,17 @@
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\bin\Debug\net6.0-windows\Realizador_de_Contas.exe
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\bin\Debug\net6.0-windows\Realizador_de_Contas.deps.json
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\bin\Debug\net6.0-windows\Realizador_de_Contas.runtimeconfig.json
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\bin\Debug\net6.0-windows\Realizador_de_Contas.dll
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\bin\Debug\net6.0-windows\Realizador_de_Contas.pdb
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\obj\Debug\net6.0-windows\Realizador_de_Contas.vbproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\obj\Debug\net6.0-windows\Realizador_de_Contas.Form1.resources
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\obj\Debug\net6.0-windows\Realizador_de_Contas.vbproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\obj\Debug\net6.0-windows\Realizador_de_Contas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\obj\Debug\net6.0-windows\Realizador_de_Contas.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\obj\Debug\net6.0-windows\Realizador_de_Contas.AssemblyInfo.vb
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\obj\Debug\net6.0-windows\Realizador_de_Contas.vbproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\obj\Debug\net6.0-windows\Realizador_de_Contas.dll
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\obj\Debug\net6.0-windows\refint\Realizador_de_Contas.dll
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\obj\Debug\net6.0-windows\Realizador_de_Contas.pdb
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\obj\Debug\net6.0-windows\Realizador_de_Contas.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\Estudo\VB\Realizador_de_Contas\Realizador_de_Contas\obj\Debug\net6.0-windows\ref\Realizador_de_Contas.dll

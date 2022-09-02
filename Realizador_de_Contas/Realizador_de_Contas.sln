@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Realizador_de_Contas", "Realizador_de_Contas\Realizador_de_Contas.vbproj", "{A8DA9B12-E541-481B-A595-B65819230186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8DA9B12-E541-481B-A595-B65819230186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DA9B12-E541-481B-A595-B65819230186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DA9B12-E541-481B-A595-B65819230186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DA9B12-E541-481B-A595-B65819230186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1135284-1BBB-4BA8-A1EB-06144B0F9AAE}
+	EndGlobalSection
+EndGlobal

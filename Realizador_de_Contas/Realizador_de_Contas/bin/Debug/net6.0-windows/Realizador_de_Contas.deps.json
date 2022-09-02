@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Realizador_de_Contas/1.0.0": {
+        "runtime": {
+          "Realizador_de_Contas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Realizador_de_Contas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
