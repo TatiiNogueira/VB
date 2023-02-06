@@ -1,0 +1,13 @@
+D:\Estudo\Upload_File\Upload_File\obj\Debug\Upload_File.vbproj.AssemblyReference.cache
+D:\Estudo\Upload_File\Upload_File\obj\Debug\Upload_File.vbproj.SuggestedBindingRedirects.cache
+D:\Estudo\Upload_File\Upload_File\obj\Debug\Upload_File.Resources.resources
+D:\Estudo\Upload_File\Upload_File\obj\Debug\Upload_File.vbproj.GenerateResource.cache
+D:\Estudo\Upload_File\Upload_File\obj\Debug\Upload_File.vbproj.CoreCompileInputs.cache
+D:\Estudo\Upload_File\Upload_File\bin\Debug\Upload_File.exe.config
+D:\Estudo\Upload_File\Upload_File\bin\Debug\Upload_File.exe
+D:\Estudo\Upload_File\Upload_File\bin\Debug\Upload_File.pdb
+D:\Estudo\Upload_File\Upload_File\bin\Debug\Upload_File.xml
+D:\Estudo\Upload_File\Upload_File\obj\Debug\Upload_File.Upload_File.resources
+D:\Estudo\Upload_File\Upload_File\obj\Debug\Upload_File.exe
+D:\Estudo\Upload_File\Upload_File\obj\Debug\Upload_File.xml
+D:\Estudo\Upload_File\Upload_File\obj\Debug\Upload_File.pdb
